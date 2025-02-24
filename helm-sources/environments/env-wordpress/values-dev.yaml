@@ -1,0 +1,13 @@
+image:
+  tag: "main"
+
+environment: dev
+
+ingress:
+  enabled: true
+  className: "nginx"
+  hosts:
+    - host: dev.k8s-13.sa
+      paths:
+        - path: /
+          pathType: Prefix

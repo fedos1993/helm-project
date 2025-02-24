@@ -1,0 +1,4 @@
+persistence:
+  size: 3Gi
+
+environment: prod
