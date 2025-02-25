@@ -1,7 +1,0 @@
-image:
-  tag: "main"
-
-environment: prod
-
-ingress:
-  - host: project.k8s-13.sa
