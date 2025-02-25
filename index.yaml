@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  mariadb:
+  - apiVersion: v2
+    appVersion: "11.7"
+    created: "2025-02-25T11:21:54.95619903+03:00"
+    description: A Helm chart for Kubernetes
+    digest: c02cf462a7e9fa60cf3385d4f519307d4c101e63155cbbee690c116ca3938828
+    name: mariadb
+    type: application
+    urls:
+    - helm-releases/mariadb-0.1.0.tgz
+    version: 0.1.0
+  wordpress:
+  - apiVersion: v2
+    appVersion: sha-8c559ad
+    created: "2025-02-25T11:21:54.956537631+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 4d25855ad3e39f3c4493da6e79ac712ba8f6d4ad80a6dddbdc109b0806423911
+    name: wordpress
+    type: application
+    urls:
+    - helm-releases/wordpress-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-25T11:21:54.955820946+03:00"
