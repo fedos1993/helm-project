@@ -3,7 +3,7 @@ entries:
   mariadb:
   - apiVersion: v2
     appVersion: "11.7"
-    created: "2025-02-26T14:27:23.427894477Z"
+    created: "2025-02-26T14:29:40.314971966Z"
     description: A Helm chart for Kubernetes
     digest: 73f66064fff0fb76592ff2f34cfd71566b27daec06f4c1ed04b1d85efc663f2d
     name: mariadb
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: "11.7"
-    created: "2025-02-26T14:27:23.427580852Z"
+    created: "2025-02-26T14:29:40.31463014Z"
     description: A Helm chart for Kubernetes
     digest: c02cf462a7e9fa60cf3385d4f519307d4c101e63155cbbee690c116ca3938828
     name: mariadb
@@ -23,8 +23,18 @@ entries:
     version: 0.1.0
   wordpress:
   - apiVersion: v2
+    appVersion: sha-9462953
+    created: "2025-02-26T14:29:40.3183001Z"
+    description: A Helm chart for Kubernetes
+    digest: 6bcdef11ae71f87d0db9ff9eb8deda649310729f9d28615457cee22d46125eb4
+    name: wordpress
+    type: application
+    urls:
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.9.tgz
+    version: 0.1.9
+  - apiVersion: v2
     appVersion: sha-b79de48
-    created: "2025-02-26T14:27:23.430919991Z"
+    created: "2025-02-26T14:29:40.317822627Z"
     description: A Helm chart for Kubernetes
     digest: 68934a6387093c120c4d83625686f0cc1b0794d6aab9e2fe16ade6a9743a3183
     name: wordpress
@@ -34,7 +44,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: sha-20e82a2
-    created: "2025-02-26T14:27:23.430625893Z"
+    created: "2025-02-26T14:29:40.317529973Z"
     description: A Helm chart for Kubernetes
     digest: b737b225e7deb7ed0605d7b7b405b749d2c4f9ea6cf680c617ae2285a07aa60f
     name: wordpress
@@ -44,7 +54,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: sha-3eadfb6
-    created: "2025-02-26T14:27:23.430305886Z"
+    created: "2025-02-26T14:29:40.317231208Z"
     description: A Helm chart for Kubernetes
     digest: e8586c95acbbd494e5a4c4bb496fee393e97eeb1f5664287360a299a43b1b62f
     name: wordpress
@@ -54,7 +64,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: sha-29c8acd
-    created: "2025-02-26T14:27:23.429998292Z"
+    created: "2025-02-26T14:29:40.316902938Z"
     description: A Helm chart for Kubernetes
     digest: 6e21ba9574e82bc60c5ad80b2e63196553cfd4aeeb47d42fb1e57e6518c32008
     name: wordpress
@@ -64,7 +74,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: main
-    created: "2025-02-26T14:27:23.429676942Z"
+    created: "2025-02-26T14:29:40.316594344Z"
     description: A Helm chart for Kubernetes
     digest: 922c0b236d0d3f1fd65deadea299e965dc5add7ebe0ef216276ac2ff6fd8e709
     name: wordpress
@@ -74,7 +84,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: main
-    created: "2025-02-26T14:27:23.429357066Z"
+    created: "2025-02-26T14:29:40.316273608Z"
     description: A Helm chart for Kubernetes
     digest: 6afd2f31109f4d5094e428a208d3800fa8dc6dde9a9a0248ac85948922ee32f6
     name: wordpress
@@ -83,7 +93,7 @@ entries:
     - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
-    created: "2025-02-26T14:27:23.429028252Z"
+    created: "2025-02-26T14:29:40.315949034Z"
     description: A Helm chart for Kubernetes
     digest: 1c719e7594655369433e82bf3a26a7e8a57411b92000458736928a84ac1b99c9
     name: wordpress
@@ -92,7 +102,7 @@ entries:
     - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
-    created: "2025-02-26T14:27:23.428652271Z"
+    created: "2025-02-26T14:29:40.315627526Z"
     description: A Helm chart for Kubernetes
     digest: dcd0c1977183e97329a7748fae107290a04944d23ca3c7186095e4594b0c227a
     name: wordpress
@@ -102,7 +112,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: sha-8c559ad
-    created: "2025-02-26T14:27:23.428234241Z"
+    created: "2025-02-26T14:29:40.315303894Z"
     description: A Helm chart for Kubernetes
     digest: 4d25855ad3e39f3c4493da6e79ac712ba8f6d4ad80a6dddbdc109b0806423911
     name: wordpress
@@ -110,4 +120,4 @@ entries:
     urls:
     - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-26T14:27:23.427105165Z"
+generated: "2025-02-26T14:29:40.314197582Z"
