@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: denis93f/wordpress
-  tag: "3ed2fa5f530a37f806573aba7e73c77318dec0fb"
+  tag: "7dea054187844efefe5f13e7ce1ae27ee15baeb8"
 
 service:
   type: ClusterIP
