@@ -12,7 +12,7 @@ metadata:
 spec:
   template:
     spec:
-      restartPolicy: OnFailure
+      restartPolicy: never
       containers:
       - name: wp-install
         image: wordpress:cli
