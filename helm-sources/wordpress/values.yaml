@@ -57,3 +57,6 @@ volumeMounts:
 persistence:
   size: 2Gi
   storageClass: nfs-client
+
+wordpress:
+  theme: ""

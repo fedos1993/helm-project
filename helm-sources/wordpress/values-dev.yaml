@@ -8,3 +8,7 @@ ingress:
       paths:
         - path: /
           pathType: Prefix
+
+wordpress:
+  url: dev.k8s-13.sa
+  title: Dev
