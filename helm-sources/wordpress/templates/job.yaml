@@ -81,6 +81,6 @@ spec:
                 --skip-plugins
             fi
 
-            wp theme activate $WORDPRESS_THEME
+            wp theme activate astra --path=/var/www/html || exit 1
 
-            echo "Theme $WORDPRESS_THEME activated successfully!"
+            wp cache flush --path=/var/www/html
