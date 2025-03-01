@@ -58,7 +58,9 @@ spec:
           {{- end }}
           volumeMounts:
            - name: wp-storage
-             mountPath: /var/www/html
+             mountPath: /var/www/html/wp-content/uploads/
+           - name: wp-storage
+            mountPath: /var/www/html/wp-content/plugins/
       volumes:
         - name: wp-storage
           persistentVolumeClaim:
