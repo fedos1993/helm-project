@@ -26,6 +26,8 @@ spec:
             secretKeyRef:
               name: mariadb-secret
               key: host
+        - name: HTTP_HOST
+          value: {{ .Values.wordpress.url | quote }}
         - name: WORDPRESS_DB_USER
           valueFrom:
             secretKeyRef:
