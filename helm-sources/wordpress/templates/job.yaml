@@ -81,12 +81,6 @@ spec:
                 --skip-plugins
             fi
 
-            wp theme install $WORDPRESS_THEME --path=/var/www/html --activate
-
-            ACTIVE_THEME=$(wp theme list --path=/var/www/html --status=active --field=name)
-            if [ "$ACTIVE_THEME" != "$WORDPRESS_THEME" ]; then
-              echo "Failed to activate theme: $WORDPRESS_THEME"
-              exit 1
-            fi
+            wp theme activate astra --path=/var/www/html/wp-content/
 
             echo "Theme $WORDPRESS_THEME activated successfully!"
