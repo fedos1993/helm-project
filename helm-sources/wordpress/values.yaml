@@ -45,16 +45,12 @@ readinessProbe:
   timeoutSeconds: 5
   failureThreshold: 6
 
-volumes:
-  - name: wp-storage
-    persistentVolumeClaim:
-    claimName: wp-pvc
-
 volumeMounts:
   - name: wp-storage
     mountPath: /var/www/html
 
 persistence:
+  enabled: true
   size: 2Gi
   storageClass: nfs-client
 

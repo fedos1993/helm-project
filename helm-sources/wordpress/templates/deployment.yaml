@@ -56,12 +56,11 @@ spec:
           resources:
             {{- toYaml . | nindent 12 }}
           {{- end }}
-          {{- with .Values.volumeMounts }}
           volumeMounts:
-            {{- toYaml . | nindent 12 }}
-          {{- end }}
+           - name: wp-storage
+             mountPath: /var/www/html
       volumes:
-      - name: wp-storage
-        persistentVolumeClaim:
-        claimName: {{ include "wordpress.fullname" . }}-pvc
+        - name: wp-storage
+          persistentVolumeClaim:
+            claimName: {{ include "wordpress.fullname" . }}-pvc
 ---
