@@ -13,6 +13,10 @@ spec:
   template:
     spec:
       restartPolicy: Never
+      volumes:
+        - name: wp-storage
+          persistentVolumeClaim:
+          claimName: {{ include "wordpress.fullname" . }}-pvc
       containers:
       - name: wp-install
         image: wordpress:cli
@@ -38,6 +42,9 @@ spec:
               key: admin-email
         - name: WORDPRESS_THEME
           value: {{ .Values.wordpress.theme | quote }}
+        volumeMounts:
+        - name: wp-storage
+          mountPath: /var/www/html
         command: ["/bin/sh", "-c"]
         args:
           - |
