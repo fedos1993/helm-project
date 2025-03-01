@@ -59,4 +59,4 @@ persistence:
   storageClass: nfs-client
 
 wordpress:
-  theme: ""
+  theme: "astra"
