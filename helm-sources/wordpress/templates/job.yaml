@@ -70,11 +70,6 @@ spec:
         command: ["/bin/sh", "-c"]
         args:
           - |
-          #  until wp core is-installed --path=/var/www/html; do
-          #    echo "Waiting for WordPress to be ready..."
-          #    sleep 10
-          #  done
-
             if ! wp core is-installed --path=/var/www/html; then
               wp core install \
                 --path=/var/www/html \
@@ -86,7 +81,6 @@ spec:
                 --skip-plugins
             fi
 
-            echo "Change theme"
             wp theme install $WORDPRESS_THEME --path=/var/www/html --activate
 
             ACTIVE_THEME=$(wp theme list --path=/var/www/html --status=active --field=name)
