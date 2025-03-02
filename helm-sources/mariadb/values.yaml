@@ -14,5 +14,6 @@ ingress:
   enabled: false
 
 persistence:
+  enabled: true
   size: 3Gi
   storageClass: "nfs-client"
