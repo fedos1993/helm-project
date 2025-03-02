@@ -43,7 +43,10 @@ spec:
                 secretKeyRef:
                   name: mariadb-secret
                   key: db-name
-
+            - name: WORDPRESS_URL
+              value: {{ .Values.wordpress.url | quote }}
+            - name: WORDPRESS_TITLE
+              value: {{ .Values.wordpress.title | quote }}
           {{- with .Values.livenessProbe }}
           livenessProbe:
             {{- toYaml . | nindent 12 }}
