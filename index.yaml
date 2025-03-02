@@ -3,631 +3,641 @@ entries:
   mariadb:
   - apiVersion: v2
     appVersion: "11.7"
-    created: "2025-03-02T16:54:07.30558702Z"
+    created: "2025-03-02T19:20:47.938964233Z"
     description: A Helm chart for Kubernetes
     digest: bfcf059e6c64b1eea56a5c985bea28a700aa4b78a1ee9e3d145a7c4191ea34a9
     name: mariadb
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/mariadb-0.1.1.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/mariadb-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: "11.7"
-    created: "2025-03-02T16:54:07.303925198Z"
+    created: "2025-03-02T19:20:47.938670104Z"
     description: A Helm chart for Kubernetes
     digest: c02cf462a7e9fa60cf3385d4f519307d4c101e63155cbbee690c116ca3938828
     name: mariadb
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/mariadb-0.1.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/mariadb-0.1.0.tgz
     version: 0.1.0
   wordpress:
   - apiVersion: v2
     appVersion: v0.11.12-dev.0
-    created: "2025-03-02T16:54:07.39213857Z"
+    created: "2025-03-02T19:20:47.955545242Z"
     description: A Helm chart for Kubernetes
     digest: 91339c5d6891dd738e716eb3f8c1a540c0eb2d07b094d6f9277ac94bb2e8816c
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.11.12-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.11.12-dev.0.tgz
     version: 0.11.12-dev.0
   - apiVersion: v2
     appVersion: v0.11.11-dev.0
-    created: "2025-03-02T16:54:07.390571304Z"
+    created: "2025-03-02T19:20:47.955179239Z"
     description: A Helm chart for Kubernetes
     digest: 93627a1ddbafdce83b631ffdb54f11f60414a79874669504adcd3c9f12fb1bd7
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.11.11-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.11.11-dev.0.tgz
     version: 0.11.11-dev.0
   - apiVersion: v2
     appVersion: v0.11.10-dev.0
-    created: "2025-03-02T16:54:07.388981464Z"
+    created: "2025-03-02T19:20:47.954806073Z"
     description: A Helm chart for Kubernetes
     digest: ad067754b27d88958788a1831c71fa6f1168d776c7f4c1164b04c74ddf38e04f
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.11.10-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.11.10-dev.0.tgz
     version: 0.11.10-dev.0
   - apiVersion: v2
     appVersion: v0.11.9-dev.0
-    created: "2025-03-02T16:54:07.406407359Z"
+    created: "2025-03-02T19:20:47.958364328Z"
     description: A Helm chart for Kubernetes
     digest: 9e99b96c6ee1f4a0cd0c359d4a074ccbba30d9054d7beed71f2f0c80e7721d74
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.11.9-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.11.9-dev.0.tgz
     version: 0.11.9-dev.0
   - apiVersion: v2
     appVersion: v0.11.8-dev.0
-    created: "2025-03-02T16:54:07.405177744Z"
+    created: "2025-03-02T19:20:47.957997204Z"
     description: A Helm chart for Kubernetes
     digest: 5297bb25bbfb769e0e12aeaa0688a73b26238f3cf54ea05696fbb52c7e55f8d1
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.11.8-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.11.8-dev.0.tgz
     version: 0.11.8-dev.0
   - apiVersion: v2
     appVersion: v0.11.7-dev.0
-    created: "2025-03-02T16:54:07.403045909Z"
+    created: "2025-03-02T19:20:47.957652842Z"
     description: A Helm chart for Kubernetes
     digest: cc36f4e1abb7aa084ba9c0214b5b74bd04007d247de08f14e7079bc5a8616e3a
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.11.7-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.11.7-dev.0.tgz
     version: 0.11.7-dev.0
   - apiVersion: v2
     appVersion: v0.11.6-dev.0
-    created: "2025-03-02T16:54:07.40129761Z"
+    created: "2025-03-02T19:20:47.957298841Z"
     description: A Helm chart for Kubernetes
     digest: cf1b9821d33f78ba3ad40997ca4eb8d3aa40899feb647aa026f0010d424f8048
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.11.6-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.11.6-dev.0.tgz
     version: 0.11.6-dev.0
   - apiVersion: v2
     appVersion: v0.11.5-dev.0
-    created: "2025-03-02T16:54:07.400052581Z"
+    created: "2025-03-02T19:20:47.956954219Z"
     description: A Helm chart for Kubernetes
     digest: 22eab335ed3c5205902248480fde6fe7e82932bdd5e2a79fd7f38e93d7b054f7
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.11.5-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.11.5-dev.0.tgz
     version: 0.11.5-dev.0
   - apiVersion: v2
     appVersion: v0.11.4-dev.0
-    created: "2025-03-02T16:54:07.398450139Z"
+    created: "2025-03-02T19:20:47.956614946Z"
     description: A Helm chart for Kubernetes
     digest: 56de549ece4953d04c6adaf6c696cc1d25000413570b5e5eb75113b240d886ba
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.11.4-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.11.4-dev.0.tgz
     version: 0.11.4-dev.0
   - apiVersion: v2
     appVersion: v0.11.3-dev.0
-    created: "2025-03-02T16:54:07.395308514Z"
+    created: "2025-03-02T19:20:47.956250627Z"
     description: A Helm chart for Kubernetes
     digest: 01c9353a436f9f110652ba57184225238d5a2bb898494f02ed9f0738a710cf5f
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.11.3-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.11.3-dev.0.tgz
     version: 0.11.3-dev.0
   - apiVersion: v2
     appVersion: v0.11.2-dev.0
-    created: "2025-03-02T16:54:07.393828263Z"
+    created: "2025-03-02T19:20:47.955905022Z"
     description: A Helm chart for Kubernetes
     digest: 019383735df5459092005ac2c27e7acf705f093420fa68e610979e74e26deee4
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.11.2-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.11.2-dev.0.tgz
     version: 0.11.2-dev.0
   - apiVersion: v2
     appVersion: v0.11.1-dev.0
-    created: "2025-03-02T16:54:07.387373243Z"
+    created: "2025-03-02T19:20:47.954400617Z"
     description: A Helm chart for Kubernetes
     digest: b350b26386a151d7520055b80d0c6da3fc94013180f9b5e30fd277ef9e7189e3
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.11.1-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.11.1-dev.0.tgz
     version: 0.11.1-dev.0
   - apiVersion: v2
     appVersion: v0.10.13-dev.0
-    created: "2025-03-02T16:54:07.362212661Z"
+    created: "2025-03-02T19:20:47.949213497Z"
     description: A Helm chart for Kubernetes
     digest: 62bd57816e666a9bcbc8370242a10531466cf22b26b30972b724f8b53092b2d3
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.13-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.13-dev.0.tgz
     version: 0.10.13-dev.0
   - apiVersion: v2
     appVersion: v0.10.12-dev.0
-    created: "2025-03-02T16:54:07.360167472Z"
+    created: "2025-03-02T19:20:47.948839009Z"
     description: A Helm chart for Kubernetes
     digest: d06b2b1e3e5872cb5ead3562bd4eec6594864cddc2624cb09f28420335f98ba0
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.12-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.12-dev.0.tgz
     version: 0.10.12-dev.0
   - apiVersion: v2
     appVersion: v0.10.11-dev.0
-    created: "2025-03-02T16:54:07.357941124Z"
+    created: "2025-03-02T19:20:47.948462457Z"
     description: A Helm chart for Kubernetes
     digest: 6323ed2abaf3a89ea4b4e1a44f8837cca908d50495f2296cb854e9d3f2c71729
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.11-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.11-dev.0.tgz
     version: 0.10.11-dev.0
   - apiVersion: v2
     appVersion: v0.10.10-dev.0
-    created: "2025-03-02T16:54:07.355686925Z"
+    created: "2025-03-02T19:20:47.948107886Z"
     description: A Helm chart for Kubernetes
     digest: b1bf737d57b56449629269fde4ae6c3630109c9fc2ae1fa49d38f5c8bb0cf24c
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.10-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.10-dev.0.tgz
     version: 0.10.10-dev.0
   - apiVersion: v2
     appVersion: v0.10.9-dev.0
-    created: "2025-03-02T16:54:07.382683775Z"
+    created: "2025-03-02T19:20:47.953996023Z"
     description: A Helm chart for Kubernetes
     digest: dc9e0d2fc0fae6fda02edbb64dd2c817b1152173fe16abbcc462b6c5a9fc63bf
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.9-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.9-dev.0.tgz
     version: 0.10.9-dev.0
   - apiVersion: v2
     appVersion: v0.10.8-dev.0
-    created: "2025-03-02T16:54:07.377422809Z"
+    created: "2025-03-02T19:20:47.953106875Z"
     description: A Helm chart for Kubernetes
     digest: ee2f73256fe4d6adc324dbf02e8bd5a619197fc4ed33a3dbd709d3d78f0c4347
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.8-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.8-dev.0.tgz
     version: 0.10.8-dev.0
   - apiVersion: v2
     appVersion: v0.10.7-dev.0
-    created: "2025-03-02T16:54:07.374630357Z"
+    created: "2025-03-02T19:20:47.952218037Z"
     description: A Helm chart for Kubernetes
     digest: 316f61e3df3a0cd4338cac76f11cc39fe5fcf314232f33f6895c957d422e7b91
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.7-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.7-dev.0.tgz
     version: 0.10.7-dev.0
   - apiVersion: v2
     appVersion: v0.10.6-dev.0
-    created: "2025-03-02T16:54:07.372827385Z"
+    created: "2025-03-02T19:20:47.95107563Z"
     description: A Helm chart for Kubernetes
     digest: 74e770e052abf8559cfe8af753340c9763e9838cf7b848d7af5ab95f884d5567
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.6-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.6-dev.0.tgz
     version: 0.10.6-dev.0
   - apiVersion: v2
     appVersion: v0.10.5-dev.0
-    created: "2025-03-02T16:54:07.370566376Z"
+    created: "2025-03-02T19:20:47.950712072Z"
     description: A Helm chart for Kubernetes
     digest: cbcd58c17e6391ed9168be47dbd429b641379a42ff151820741322d86e55c926
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.5-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.5-dev.0.tgz
     version: 0.10.5-dev.0
   - apiVersion: v2
     appVersion: v0.10.4-dev.0
-    created: "2025-03-02T16:54:07.368515486Z"
+    created: "2025-03-02T19:20:47.950322726Z"
     description: A Helm chart for Kubernetes
     digest: b4c7e0608a986dccbf785dfc593d88fceea8d9eb84d1e66812ec814df12ee6ae
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.4-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.4-dev.0.tgz
     version: 0.10.4-dev.0
   - apiVersion: v2
     appVersion: v0.10.3-dev.0
-    created: "2025-03-02T16:54:07.366378954Z"
+    created: "2025-03-02T19:20:47.949952085Z"
     description: A Helm chart for Kubernetes
     digest: 4570f8450bf50ceffec7c6a79a1311fad44d19ea7cee59a00a37bedff7d92fa9
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.3-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.3-dev.0.tgz
     version: 0.10.3-dev.0
   - apiVersion: v2
     appVersion: v0.10.2-dev.0
-    created: "2025-03-02T16:54:07.364530871Z"
+    created: "2025-03-02T19:20:47.949594578Z"
     description: A Helm chart for Kubernetes
     digest: c269030166fefdcc32973351abb8eae264c98e02c3c6df12ce859ced256a4ada
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.2-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.2-dev.0.tgz
     version: 0.10.2-dev.0
   - apiVersion: v2
     appVersion: v0.10.1-dev.1
-    created: "2025-03-02T16:54:07.353638271Z"
+    created: "2025-03-02T19:20:47.94775087Z"
     description: A Helm chart for Kubernetes
     digest: fb49baa394775d96da567d74693d22527779a758328692a1f7c622e9407146d3
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.1-dev.1.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.1-dev.1.tgz
     version: 0.10.1-dev.1
   - apiVersion: v2
     appVersion: v0.10.1-dev.0
-    created: "2025-03-02T16:54:07.351667683Z"
+    created: "2025-03-02T19:20:47.947372595Z"
     description: A Helm chart for Kubernetes
     digest: dd0f717e5c1d38320507cf6314367db456c3693fb72bfd3e4e1fb70401309034
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.1-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.1-dev.0.tgz
     version: 0.10.1-dev.0
   - apiVersion: v2
     appVersion: v0.10.0-dev.0
-    created: "2025-03-02T16:54:07.349826225Z"
+    created: "2025-03-02T19:20:47.947004678Z"
     description: A Helm chart for Kubernetes
     digest: 918e8cd018177ff45dc0dc4c6809012fe169566511a52427c9de2c4df892f3b5
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.10.0-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.10.0-dev.0.tgz
     version: 0.10.0-dev.0
   - apiVersion: v2
     appVersion: v0.9.8-dev.0
-    created: "2025-03-02T16:54:07.414309464Z"
+    created: "2025-03-02T19:20:47.959520434Z"
     description: A Helm chart for Kubernetes
     digest: cb412c3cfb4c1f086273398115d6033f29a9154ade0d8c626339ec59f0054fbf
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.9.8-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.9.8-dev.0.tgz
     version: 0.9.8-dev.0
   - apiVersion: v2
     appVersion: v0.9.7-dev.0
-    created: "2025-03-02T16:54:07.411126599Z"
+    created: "2025-03-02T19:20:47.959140225Z"
     description: A Helm chart for Kubernetes
     digest: b44bc479f33f9b5c88e41cd8695871273f83e6c1a1ca2feadba144aa12fbe471
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.9.7-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.9.7-dev.0.tgz
     version: 0.9.7-dev.0
   - apiVersion: v2
     appVersion: v0.9.6-dev.0
-    created: "2025-03-02T16:54:07.408681194Z"
+    created: "2025-03-02T19:20:47.958782809Z"
     description: A Helm chart for Kubernetes
     digest: e5e0ce48e21c3fccf652f11a983ca273a1296731739ee9682470add930d72c75
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.9.6-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.9.6-dev.0.tgz
     version: 0.9.6-dev.0
   - apiVersion: v2
     appVersion: v0.9.5-dev.0
-    created: "2025-03-02T16:54:07.441876423Z"
+    created: "2025-03-02T19:20:47.965918154Z"
     description: A Helm chart for Kubernetes
     digest: 0b0db93b184c479dbf2af5b169fac8f40ef7f7ec980c98357b35d6349645b651
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-v0.9.5-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.9.5-dev.0.tgz
     version: v0.9.5-dev.0
   - apiVersion: v2
     appVersion: v0.9.4-dev.0
-    created: "2025-03-02T16:54:07.437416581Z"
+    created: "2025-03-02T19:20:47.965569614Z"
     description: A Helm chart for Kubernetes
     digest: 758c5d0294c6d322fabbd0e1d96031f79858231691e4a925a6fd66cad1197b86
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-v0.9.4-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.9.4-dev.0.tgz
     version: v0.9.4-dev.0
   - apiVersion: v2
     appVersion: v0.9.3-dev.0
-    created: "2025-03-02T16:54:07.434896819Z"
+    created: "2025-03-02T19:20:47.965194685Z"
     description: A Helm chart for Kubernetes
     digest: 3568bef9832d5d4734dde1fae89a51c1f1c8204bebd79e97708dcf61fe15cf82
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-v0.9.3-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.9.3-dev.0.tgz
     version: v0.9.3-dev.0
   - apiVersion: v2
     appVersion: v0.9.2-dev.0
-    created: "2025-03-02T16:54:07.432930965Z"
+    created: "2025-03-02T19:20:47.964835175Z"
     description: A Helm chart for Kubernetes
     digest: 98e8432b5f01e565bc7ec29d3641315c7d96720261285302ce274509f7878f39
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-v0.9.2-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.9.2-dev.0.tgz
     version: v0.9.2-dev.0
   - apiVersion: v2
     appVersion: v0.9.1-dev.0
-    created: "2025-03-02T16:54:07.430943696Z"
+    created: "2025-03-02T19:20:47.964440288Z"
     description: A Helm chart for Kubernetes
     digest: 7676778007913a144648f63052ae1b0eb90d3fb47f2c8204e76d84fb70286b8c
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-v0.9.1-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.9.1-dev.0.tgz
     version: v0.9.1-dev.0
   - apiVersion: v2
+    appVersion: v0.9.0
+    created: "2025-03-02T19:20:47.964121464Z"
+    description: A Helm chart for Kubernetes
+    digest: b95089b3ec85011906c7a70cf92007e05e2b1163cd2e141e9fa584a852ba34f3
+    name: wordpress
+    type: application
+    urls:
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.9.0.tgz
+    version: v0.9.0
+  - apiVersion: v2
     appVersion: v0.9.0-dev.0
-    created: "2025-03-02T16:54:07.428814972Z"
+    created: "2025-03-02T19:20:47.963766071Z"
     description: A Helm chart for Kubernetes
     digest: 371e480915ff3825a49ee78b844db25d13f662e71c1db20cdc4f4e43b9dab232
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-v0.9.0-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.9.0-dev.0.tgz
     version: v0.9.0-dev.0
   - apiVersion: v2
     appVersion: v0.8.0
-    created: "2025-03-02T16:54:07.426888726Z"
+    created: "2025-03-02T19:20:47.96336849Z"
     description: A Helm chart for Kubernetes
     digest: 2331e95e83441515fba55d9a4f2b7e8d7f76490d30c4b3454e6534b60b44cebc
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-v0.8.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.8.0.tgz
     version: v0.8.0
   - apiVersion: v2
     appVersion: v0.8.0-dev.0
-    created: "2025-03-02T16:54:07.424667866Z"
+    created: "2025-03-02T19:20:47.963020902Z"
     description: A Helm chart for Kubernetes
     digest: 5b5f804ac1b039f21f3f452427d7f4db3ad118f48ffdc73ece3eb1bfc7977bfc
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-v0.8.0-dev.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.8.0-dev.0.tgz
     version: v0.8.0-dev.0
   - apiVersion: v2
     appVersion: v0.7.4
-    created: "2025-03-02T16:54:07.422848252Z"
+    created: "2025-03-02T19:20:47.962719099Z"
     description: A Helm chart for Kubernetes
     digest: 2eef70533ddd5e2957a838ac1245f7970ef8bc93f1537bf3b2ae4a23c19c9107
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-v0.7.4.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.7.4.tgz
     version: v0.7.4
   - apiVersion: v2
     appVersion: v0.7.3
-    created: "2025-03-02T16:54:07.421215028Z"
+    created: "2025-03-02T19:20:47.962382581Z"
     description: A Helm chart for Kubernetes
     digest: a1506093b1b02f1daeb5cb6a2cc60bb9a0a991a3819f2ce053f174c7e1d432e2
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-v0.7.3.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.7.3.tgz
     version: v0.7.3
   - apiVersion: v2
     appVersion: v0.7.2
-    created: "2025-03-02T16:54:07.419520428Z"
+    created: "2025-03-02T19:20:47.96199024Z"
     description: A Helm chart for Kubernetes
     digest: 0e0d1f94f455923fed986b34984381c9b119dc5ad7f82eee01757113a923e314
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-v0.7.2.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.7.2.tgz
     version: v0.7.2
   - apiVersion: v2
     appVersion: v0.7.1
-    created: "2025-03-02T16:54:07.417589823Z"
+    created: "2025-03-02T19:20:47.961142381Z"
     description: A Helm chart for Kubernetes
     digest: 5589f808ecc833e932422f2d41501edddd780500bd29ea444df0d430a6a7b7e8
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-v0.7.1.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.7.1.tgz
     version: v0.7.1
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2025-03-02T16:54:07.415884681Z"
+    created: "2025-03-02T19:20:47.960411128Z"
     description: A Helm chart for Kubernetes
     digest: caaabef220943b44bfbf4e937f450342f0748726d26a0a70761647459a5e8f40
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-v0.7.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-v0.7.0.tgz
     version: v0.7.0
   - apiVersion: v2
     appVersion: sha-efe4927
-    created: "2025-03-02T16:54:07.327323581Z"
+    created: "2025-03-02T19:20:47.94237347Z"
     description: A Helm chart for Kubernetes
     digest: db983fec5b3f2a83a08a6eb8cb26969d89882610a70c72f6891be6db969fb53c
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.17.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.17.tgz
     version: 0.1.17
   - apiVersion: v2
     appVersion: sha-281b89e
-    created: "2025-03-02T16:54:07.325041576Z"
+    created: "2025-03-02T19:20:47.942078971Z"
     description: A Helm chart for Kubernetes
     digest: 60cd00384432f3f277ac48e06eac0c5db6463b1984838f8c544a46f59040d67f
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.16.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.16.tgz
     version: 0.1.16
   - apiVersion: v2
     appVersion: sha-38ae5ef
-    created: "2025-03-02T16:54:07.322767291Z"
+    created: "2025-03-02T19:20:47.941780384Z"
     description: A Helm chart for Kubernetes
     digest: f653577ddbe4f2294d00bd2dc1847f431d03bb7821ca4705f7b73105e7ad4bdb
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.15.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.15.tgz
     version: 0.1.15
   - apiVersion: v2
     appVersion: sha-b55d08c
-    created: "2025-03-02T16:54:07.320408359Z"
+    created: "2025-03-02T19:20:47.941443456Z"
     description: A Helm chart for Kubernetes
     digest: ceb78581bec0384d8aa81c762e3e5a0add7480c0455ddfa86588a789a0e6db6d
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.14.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.14.tgz
     version: 0.1.14
   - apiVersion: v2
     appVersion: sha-aa34f71
-    created: "2025-03-02T16:54:07.317622267Z"
+    created: "2025-03-02T19:20:47.941132366Z"
     description: A Helm chart for Kubernetes
     digest: b7d0d258ee92d8058af5d6f9dee158dbfc1b1996c5602899b8e9021ae02623d2
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.13.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.13.tgz
     version: 0.1.13
   - apiVersion: v2
     appVersion: sha-5751459
-    created: "2025-03-02T16:54:07.315287771Z"
+    created: "2025-03-02T19:20:47.94081295Z"
     description: A Helm chart for Kubernetes
     digest: e2c6f5f5e175c53985cdfb49b02d74fa31235ced6ab3cd190c672332b581e9d8
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.12.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.12.tgz
     version: 0.1.12
   - apiVersion: v2
     appVersion: sha-9add4d0
-    created: "2025-03-02T16:54:07.313484178Z"
+    created: "2025-03-02T19:20:47.940414808Z"
     description: A Helm chart for Kubernetes
     digest: 8c34fa60e6014202b7d58f04110eeb86c64fd54cc0b5f1127b485da34da599b2
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.11.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.11.tgz
     version: 0.1.11
   - apiVersion: v2
     appVersion: sha-0cd4b97
-    created: "2025-03-02T16:54:07.310846322Z"
+    created: "2025-03-02T19:20:47.940032585Z"
     description: A Helm chart for Kubernetes
     digest: 63997b66eea36933e55764f24eeb0299782e7d192653c820e3f93f80faf034d4
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.10.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v2
     appVersion: sha-9462953
-    created: "2025-03-02T16:54:07.347743218Z"
+    created: "2025-03-02T19:20:47.946620783Z"
     description: A Helm chart for Kubernetes
     digest: 6bcdef11ae71f87d0db9ff9eb8deda649310729f9d28615457cee22d46125eb4
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.9.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v2
     appVersion: sha-b79de48
-    created: "2025-03-02T16:54:07.345648079Z"
+    created: "2025-03-02T19:20:47.946245774Z"
     description: A Helm chart for Kubernetes
     digest: 68934a6387093c120c4d83625686f0cc1b0794d6aab9e2fe16ade6a9743a3183
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.8.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v2
     appVersion: sha-20e82a2
-    created: "2025-03-02T16:54:07.344117127Z"
+    created: "2025-03-02T19:20:47.94593815Z"
     description: A Helm chart for Kubernetes
     digest: b737b225e7deb7ed0605d7b7b405b749d2c4f9ea6cf680c617ae2285a07aa60f
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.7.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v2
     appVersion: sha-3eadfb6
-    created: "2025-03-02T16:54:07.342598909Z"
+    created: "2025-03-02T19:20:47.945591433Z"
     description: A Helm chart for Kubernetes
     digest: e8586c95acbbd494e5a4c4bb496fee393e97eeb1f5664287360a299a43b1b62f
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.6.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v2
     appVersion: sha-29c8acd
-    created: "2025-03-02T16:54:07.3408049Z"
+    created: "2025-03-02T19:20:47.944559319Z"
     description: A Helm chart for Kubernetes
     digest: 6e21ba9574e82bc60c5ad80b2e63196553cfd4aeeb47d42fb1e57e6518c32008
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.5.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v2
     appVersion: main
-    created: "2025-03-02T16:54:07.339181896Z"
+    created: "2025-03-02T19:20:47.943856288Z"
     description: A Helm chart for Kubernetes
     digest: 922c0b236d0d3f1fd65deadea299e965dc5add7ebe0ef216276ac2ff6fd8e709
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.4.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: main
-    created: "2025-03-02T16:54:07.333752779Z"
+    created: "2025-03-02T19:20:47.943176507Z"
     description: A Helm chart for Kubernetes
     digest: 6afd2f31109f4d5094e428a208d3800fa8dc6dde9a9a0248ac85948922ee32f6
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.3.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
-    created: "2025-03-02T16:54:07.330822014Z"
+    created: "2025-03-02T19:20:47.942848997Z"
     description: A Helm chart for Kubernetes
     digest: 1c719e7594655369433e82bf3a26a7e8a57411b92000458736928a84ac1b99c9
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.2.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
-    created: "2025-03-02T16:54:07.309114899Z"
+    created: "2025-03-02T19:20:47.939683083Z"
     description: A Helm chart for Kubernetes
     digest: dcd0c1977183e97329a7748fae107290a04944d23ca3c7186095e4594b0c227a
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.1.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: sha-8c559ad
-    created: "2025-03-02T16:54:07.307348166Z"
+    created: "2025-03-02T19:20:47.939293747Z"
     description: A Helm chart for Kubernetes
     digest: 4d25855ad3e39f3c4493da6e79ac712ba8f6d4ad80a6dddbdc109b0806423911
     name: wordpress
     type: application
     urls:
-    - helm-project/mariadb/helm-releases/wordpress-0.1.0.tgz
+    - https://fedos1993.github.io/helm-project/helm-releases/wordpress-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-02T16:54:07.299237919Z"
+generated: "2025-03-02T19:20:47.938193395Z"
