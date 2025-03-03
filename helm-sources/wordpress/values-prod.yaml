@@ -11,4 +11,4 @@ ingress:
 
 wordpress:
   url: http://project.k8s-13.sa
-  title: Dev
+  title: Project

@@ -64,8 +64,6 @@ spec:
                 secretKeyRef:
                   name: wordpress-secret
                   key: admin-email
-            - name: WORDPRESS_THEME
-              value: {{ .Values.wordpress.theme | quote }}
           {{- with .Values.livenessProbe }}
           livenessProbe:
             {{- toYaml . | nindent 12 }}
