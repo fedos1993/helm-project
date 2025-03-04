@@ -54,3 +54,5 @@ persistence:
   size: 2Gi
   storageClass: nfs-client
 
+wordpress:
+  url: http://project.k8s-13.sa
